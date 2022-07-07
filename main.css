@@ -1,0 +1,37 @@
+.header{ font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    
+}
+.header{
+    background-image: url(./assets/bat\ signal.png);
+    height: 400px;
+    width: auto;
+}
+
+.Origin{
+    color: yellow;
+    font-family: 'Mingzat', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Shadows Into Light', cursive;
+        font-family: 'Splash', cursive;
+}
+
+#Story{
+    border: solid;
+}
+
+.Abilities{
+    color: yellow;
+    
+}
+
+#Powers{
+    border: double;
+    color:yellow;
+}
+
+#Powers img {
+    padding: 20px 20px 20px 40px;
+}
